@@ -1,0 +1,10 @@
+C:\Users\Justyna\Desktop\Repos\zca3-jbryzek\rozrostCA\rozrostCA\bin\Debug\rozrostCA.exe.config
+C:\Users\Justyna\Desktop\Repos\zca3-jbryzek\rozrostCA\rozrostCA\bin\Debug\rozrostCA.exe
+C:\Users\Justyna\Desktop\Repos\zca3-jbryzek\rozrostCA\rozrostCA\bin\Debug\rozrostCA.pdb
+C:\Users\Justyna\Desktop\Repos\zca3-jbryzek\rozrostCA\rozrostCA\obj\Debug\rozrostCA.csprojAssemblyReference.cache
+C:\Users\Justyna\Desktop\Repos\zca3-jbryzek\rozrostCA\rozrostCA\obj\Debug\rozrostCA.Form1.resources
+C:\Users\Justyna\Desktop\Repos\zca3-jbryzek\rozrostCA\rozrostCA\obj\Debug\rozrostCA.Properties.Resources.resources
+C:\Users\Justyna\Desktop\Repos\zca3-jbryzek\rozrostCA\rozrostCA\obj\Debug\rozrostCA.csproj.GenerateResource.cache
+C:\Users\Justyna\Desktop\Repos\zca3-jbryzek\rozrostCA\rozrostCA\obj\Debug\rozrostCA.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\Desktop\Repos\zca3-jbryzek\rozrostCA\rozrostCA\obj\Debug\rozrostCA.exe
+C:\Users\Justyna\Desktop\Repos\zca3-jbryzek\rozrostCA\rozrostCA\obj\Debug\rozrostCA.pdb
