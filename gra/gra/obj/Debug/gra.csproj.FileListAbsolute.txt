@@ -1,0 +1,10 @@
+C:\Users\Justyna\Desktop\Repos\zca2-jbryzek\gra\gra\gra\bin\Debug\gra.exe.config
+C:\Users\Justyna\Desktop\Repos\zca2-jbryzek\gra\gra\gra\bin\Debug\gra.exe
+C:\Users\Justyna\Desktop\Repos\zca2-jbryzek\gra\gra\gra\bin\Debug\gra.pdb
+C:\Users\Justyna\Desktop\Repos\zca2-jbryzek\gra\gra\gra\obj\Debug\gra.csprojAssemblyReference.cache
+C:\Users\Justyna\Desktop\Repos\zca2-jbryzek\gra\gra\gra\obj\Debug\gra.Form1.resources
+C:\Users\Justyna\Desktop\Repos\zca2-jbryzek\gra\gra\gra\obj\Debug\gra.Properties.Resources.resources
+C:\Users\Justyna\Desktop\Repos\zca2-jbryzek\gra\gra\gra\obj\Debug\gra.csproj.GenerateResource.cache
+C:\Users\Justyna\Desktop\Repos\zca2-jbryzek\gra\gra\gra\obj\Debug\gra.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\Desktop\Repos\zca2-jbryzek\gra\gra\gra\obj\Debug\gra.exe
+C:\Users\Justyna\Desktop\Repos\zca2-jbryzek\gra\gra\gra\obj\Debug\gra.pdb
