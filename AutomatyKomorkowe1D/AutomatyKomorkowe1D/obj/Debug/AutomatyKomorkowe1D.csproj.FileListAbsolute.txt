@@ -1,0 +1,10 @@
+C:\Users\Justyna\Desktop\Repos\zca1-jbryzek\AutomatyKomorkowe1D\AutomatyKomorkowe1D\bin\Debug\AutomatyKomorkowe1D.exe.config
+C:\Users\Justyna\Desktop\Repos\zca1-jbryzek\AutomatyKomorkowe1D\AutomatyKomorkowe1D\bin\Debug\AutomatyKomorkowe1D.exe
+C:\Users\Justyna\Desktop\Repos\zca1-jbryzek\AutomatyKomorkowe1D\AutomatyKomorkowe1D\bin\Debug\AutomatyKomorkowe1D.pdb
+C:\Users\Justyna\Desktop\Repos\zca1-jbryzek\AutomatyKomorkowe1D\AutomatyKomorkowe1D\obj\Debug\AutomatyKomorkowe1D.csprojAssemblyReference.cache
+C:\Users\Justyna\Desktop\Repos\zca1-jbryzek\AutomatyKomorkowe1D\AutomatyKomorkowe1D\obj\Debug\AutomatyKomorkowe1D.Properties.Resources.resources
+C:\Users\Justyna\Desktop\Repos\zca1-jbryzek\AutomatyKomorkowe1D\AutomatyKomorkowe1D\obj\Debug\AutomatyKomorkowe1D.csproj.GenerateResource.cache
+C:\Users\Justyna\Desktop\Repos\zca1-jbryzek\AutomatyKomorkowe1D\AutomatyKomorkowe1D\obj\Debug\AutomatyKomorkowe1D.exe
+C:\Users\Justyna\Desktop\Repos\zca1-jbryzek\AutomatyKomorkowe1D\AutomatyKomorkowe1D\obj\Debug\AutomatyKomorkowe1D.pdb
+C:\Users\Justyna\Desktop\Repos\zca1-jbryzek\AutomatyKomorkowe1D\AutomatyKomorkowe1D\obj\Debug\AutomatyKomorkowe1D.FormCellular.resources
+C:\Users\Justyna\Desktop\Repos\zca1-jbryzek\AutomatyKomorkowe1D\AutomatyKomorkowe1D\obj\Debug\AutomatyKomorkowe1D.csproj.CoreCompileInputs.cache
