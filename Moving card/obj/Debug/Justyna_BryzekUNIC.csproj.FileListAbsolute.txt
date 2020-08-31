@@ -1,0 +1,9 @@
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Moving card\bin\Debug\Justyna_BryzekUNIC.exe.config
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Moving card\bin\Debug\Justyna_BryzekUNIC.exe
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Moving card\bin\Debug\Justyna_BryzekUNIC.pdb
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Moving card\obj\Debug\Justyna_BryzekUNIC.csprojAssemblyReference.cache
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Moving card\obj\Debug\Justyna_BryzekUNIC.Moving_Cards.resources
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Moving card\obj\Debug\Justyna_BryzekUNIC.Properties.Resources.resources
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Moving card\obj\Debug\Justyna_BryzekUNIC.csproj.GenerateResource.cache
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Moving card\obj\Debug\Justyna_BryzekUNIC.exe
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Moving card\obj\Debug\Justyna_BryzekUNIC.pdb

@@ -1,0 +1,9 @@
+C:\Users\Justyna\source\repos\Justyna_BryzekU194N1220\Justyna_BryzekU194N1220\bin\Debug\Justyna_BryzekU194N1220.exe.config
+C:\Users\Justyna\source\repos\Justyna_BryzekU194N1220\Justyna_BryzekU194N1220\bin\Debug\Justyna_BryzekU194N1220.exe
+C:\Users\Justyna\source\repos\Justyna_BryzekU194N1220\Justyna_BryzekU194N1220\bin\Debug\Justyna_BryzekU194N1220.pdb
+C:\Users\Justyna\source\repos\Justyna_BryzekU194N1220\Justyna_BryzekU194N1220\obj\Debug\Justyna_BryzekU194N1220.csprojAssemblyReference.cache
+C:\Users\Justyna\source\repos\Justyna_BryzekU194N1220\Justyna_BryzekU194N1220\obj\Debug\Justyna_BryzekU194N1220.Moving_Cards.resources
+C:\Users\Justyna\source\repos\Justyna_BryzekU194N1220\Justyna_BryzekU194N1220\obj\Debug\Justyna_BryzekU194N1220.Properties.Resources.resources
+C:\Users\Justyna\source\repos\Justyna_BryzekU194N1220\Justyna_BryzekU194N1220\obj\Debug\Justyna_BryzekU194N1220.csproj.GenerateResource.cache
+C:\Users\Justyna\source\repos\Justyna_BryzekU194N1220\Justyna_BryzekU194N1220\obj\Debug\Justyna_BryzekU194N1220.exe
+C:\Users\Justyna\source\repos\Justyna_BryzekU194N1220\Justyna_BryzekU194N1220\obj\Debug\Justyna_BryzekU194N1220.pdb
