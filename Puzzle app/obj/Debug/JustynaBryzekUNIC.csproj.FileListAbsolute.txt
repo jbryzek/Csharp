@@ -1,0 +1,19 @@
+C:\Users\Justyna\source\repos\JustynaBryzekUNIC\JustynaBryzekUNIC\bin\Debug\JustynaBryzekUNIC.exe.config
+C:\Users\Justyna\source\repos\JustynaBryzekUNIC\JustynaBryzekUNIC\bin\Debug\JustynaBryzekUNIC.exe
+C:\Users\Justyna\source\repos\JustynaBryzekUNIC\JustynaBryzekUNIC\bin\Debug\JustynaBryzekUNIC.pdb
+C:\Users\Justyna\source\repos\JustynaBryzekUNIC\JustynaBryzekUNIC\obj\Debug\JustynaBryzekUNIC.csprojAssemblyReference.cache
+C:\Users\Justyna\source\repos\JustynaBryzekUNIC\JustynaBryzekUNIC\obj\Debug\JustynaBryzekUNIC.Form1.resources
+C:\Users\Justyna\source\repos\JustynaBryzekUNIC\JustynaBryzekUNIC\obj\Debug\JustynaBryzekUNIC.Properties.Resources.resources
+C:\Users\Justyna\source\repos\JustynaBryzekUNIC\JustynaBryzekUNIC\obj\Debug\JustynaBryzekUNIC.csproj.GenerateResource.cache
+C:\Users\Justyna\source\repos\JustynaBryzekUNIC\JustynaBryzekUNIC\obj\Debug\JustynaBryzekUNIC.exe
+C:\Users\Justyna\source\repos\JustynaBryzekUNIC\JustynaBryzekUNIC\obj\Debug\JustynaBryzekUNIC.pdb
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Puzzle app\bin\Debug\JustynaBryzekUNIC.exe.config
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Puzzle app\bin\Debug\JustynaBryzekUNIC.exe
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Puzzle app\bin\Debug\JustynaBryzekUNIC.pdb
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Puzzle app\obj\Debug\JustynaBryzekUNIC.csprojAssemblyReference.cache
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Puzzle app\obj\Debug\JustynaBryzekUNIC.Form1.resources
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Puzzle app\obj\Debug\JustynaBryzekUNIC.Properties.Resources.resources
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Puzzle app\obj\Debug\JustynaBryzekUNIC.csproj.GenerateResource.cache
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Puzzle app\obj\Debug\JustynaBryzekUNIC.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Puzzle app\obj\Debug\JustynaBryzekUNIC.exe
+C:\Users\Justyna\Desktop\Repos\C-windows-form\Puzzle app\obj\Debug\JustynaBryzekUNIC.pdb
